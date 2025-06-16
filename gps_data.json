@@ -9,10 +9,10 @@
       },
       "properties": {
         "bus_number": "1",
-        "ligne": "circuito_escolar",
+        "ligne": "Circuito Escolar",
         "date": "16/06/2025",
-        "heure": "14:45:00",
-        "timestamp": "2025-06-16T14:45:00-05:00"
+        "heure": "14:57:00",
+        "timestamp": "2025-06-16T14:57:00-05:00"
       }
     }
   ]
