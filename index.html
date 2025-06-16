@@ -96,9 +96,9 @@
                 // Supprimer l'ancien marqueur
                 busMarker.clearLayers();
 
-                // Ajouter le nouveau marqueur pour Bus001
+                // Ajouter le nouveau marqueur pour le bus 1
                 if (geojson.features.length > 0) {
-                    const feature = geojson.features[0]; // Prend la première feature (Bus001)
+                    const feature = geojson.features[0]; // Prend la première feature (bus 1)
                     const coords = feature.geometry.coordinates;
                     const busNumber = feature.properties.bus_number;
                     const ligne = feature.properties.ligne;
